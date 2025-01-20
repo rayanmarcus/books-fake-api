@@ -53,7 +53,7 @@
   },
   {
     "id": 5,
-    "img": "https://raw.githubusercontent.com/rayanmarcus/books-fake-api/refs/heads/main/livros/5.jpg",
+    "img": "https://raw.githubusercontent.com/rayanmarcus/books-fake-api/refs/heads/main/livros/6.jpg",
     "title": "Ponto de Inflexão",
     "author": "Flávio Augusto",
     "page_count": 232,
@@ -66,7 +66,7 @@
   },
   {
     "id": 6,
-    "img": "https://raw.githubusercontent.com/rayanmarcus/books-fake-api/refs/heads/main/livros/6.jpg",
+    "img": "https://raw.githubusercontent.com/rayanmarcus/books-fake-api/refs/heads/main/livros/5.jpg",
     "title": "Geração de Valor 2",
     "author": "Flávio Augusto",
     "page_count": 144,
