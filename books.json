@@ -27,7 +27,7 @@
   },
   {
     "id": 3,
-    "img": "https://raw.githubusercontent.com/rayanmarcus/books-fake-api/refs/heads/main/livros/3",
+    "img": "https://raw.githubusercontent.com/rayanmarcus/books-fake-api/refs/heads/main/livros/3.jpg",
     "title": "O Falar em Línguas",
     "author": "Luciano Subirá",
     "page_count": 120,
@@ -40,7 +40,7 @@
   },
   {
     "id": 4,
-    "img": "https://raw.githubusercontent.com/rayanmarcus/books-fake-api/refs/heads/main/livros/4",
+    "img": "https://raw.githubusercontent.com/rayanmarcus/books-fake-api/refs/heads/main/livros/4.jpg",
     "title": "Geração de Valor",
     "author": "Flávio Augusto",
     "page_count": 144,
@@ -53,7 +53,7 @@
   },
   {
     "id": 5,
-    "img": "https://raw.githubusercontent.com/rayanmarcus/books-fake-api/refs/heads/main/livros/5",
+    "img": "https://raw.githubusercontent.com/rayanmarcus/books-fake-api/refs/heads/main/livros/5.jpg",
     "title": "Ponto de Inflexão",
     "author": "Flávio Augusto",
     "page_count": 232,
@@ -66,7 +66,7 @@
   },
   {
     "id": 6,
-    "img": "https://raw.githubusercontent.com/rayanmarcus/books-fake-api/refs/heads/main/livros/6",
+    "img": "https://raw.githubusercontent.com/rayanmarcus/books-fake-api/refs/heads/main/livros/6.jpg",
     "title": "Geração de Valor 2",
     "author": "Flávio Augusto",
     "page_count": 144,
@@ -79,7 +79,7 @@
   },
   {
     "id": 7,
-    "img": "https://raw.githubusercontent.com/rayanmarcus/books-fake-api/refs/heads/main/livros/7",
+    "img": "https://raw.githubusercontent.com/rayanmarcus/books-fake-api/refs/heads/main/livros/7.jpg",
     "title": "Pai Rico, Pai Pobre",
     "author": "Robert Kiyosaki",
     "page_count": 336,
@@ -92,7 +92,7 @@
   },
   {
     "id": 8,
-    "img": "https://raw.githubusercontent.com/rayanmarcus/books-fake-api/refs/heads/main/livros/8",
+    "img": "https://raw.githubusercontent.com/rayanmarcus/books-fake-api/refs/heads/main/livros/8.jpg",
     "title": "Os Segredos da Mente Milionária",
     "author": "T. Harv Eker",
     "page_count": 176,
@@ -105,7 +105,7 @@
   },
   {
     "id": 9,
-    "img": "https://raw.githubusercontent.com/rayanmarcus/books-fake-api/refs/heads/main/livros/9",
+    "img": "https://raw.githubusercontent.com/rayanmarcus/books-fake-api/refs/heads/main/livros/9.jpg",
     "title": "O Homem Mais Rico da Babilônia",
     "author": "George S. Clason",
     "page_count": 160,
@@ -118,7 +118,7 @@
   },
   {
     "id": 10,
-    "img": "https://raw.githubusercontent.com/rayanmarcus/books-fake-api/refs/heads/main/livros/10",
+    "img": "https://raw.githubusercontent.com/rayanmarcus/books-fake-api/refs/heads/main/livros/10.jpg",
     "title": "O Padrão Bitcoin",
     "author": "Saifedean Ammous",
     "page_count": 304,
@@ -131,7 +131,7 @@
   },
   {
     "id": 11,
-    "img": "https://raw.githubusercontent.com/rayanmarcus/books-fake-api/refs/heads/main/livros/11",
+    "img": "https://raw.githubusercontent.com/rayanmarcus/books-fake-api/refs/heads/main/livros/11.jpg",
     "title": "Bitcoin: A Moeda na Era Digital",
     "author": "Fernando Ulrich",
     "page_count": 256,
@@ -144,7 +144,7 @@
   },
   {
     "id": 12,
-    "img": "https://raw.githubusercontent.com/rayanmarcus/books-fake-api/refs/heads/main/livros/12",
+    "img": "https://raw.githubusercontent.com/rayanmarcus/books-fake-api/refs/heads/main/livros/12.jpg",
     "title": "Mastering Bitcoin",
     "author": "Andreas M. Antonopoulos",
     "page_count": 320,
